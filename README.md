@@ -1,3 +1,3 @@
 # travis-lab
 
-[![Build status] (https://travis-ci.org/Valentinas35/travis-lab.svg?master) ] (https://travis-ci.org/Valentinas35)
+[![Build Status](https://travis-ci.org/Valentinas35/travis-lab.svg?branch=master)](https://travis-ci.org/Valentinas35/travis-lab)
